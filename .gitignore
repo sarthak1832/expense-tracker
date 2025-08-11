@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite3
+Expense Tracker.db
+.idea/
+.vscode/
+.DS_Store
